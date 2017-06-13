@@ -1,0 +1,7 @@
+env
+node_modules
+urls.py
+new.py
+login_data.py
+geckodriver.log
+ghostdriver.log
